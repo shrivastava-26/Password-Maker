@@ -4,7 +4,7 @@ Password Maker is a simple web-based application that generates strong, random p
 
 ## 🌐 Live Demo
 
-Check out the live demo of Password Maker [here](https://paswrd-maker.netlify.app/).
+Check out the live demo of Password Maker [here](https://paswrd-maker.netlify.app/)
 
 
 ## 💡 Key Features
