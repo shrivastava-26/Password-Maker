@@ -29,7 +29,7 @@ Check out the live demo of Password Maker [here](https://paswrd-maker.netlify.ap
 
 Open index.html in your browser:
 
-Simply double-click on the index.html file or open it using your preferred web browser.
+### Simply double-click on the index.html file or open it using your preferred web browser.
 
 ## ⚙️ How to Use
 Open the Password Maker.
