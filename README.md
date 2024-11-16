@@ -1,4 +1,4 @@
-# Password Maker
+# Password Maker🔑
 
 Password Maker is a simple web-based application that generates strong, random passwords to enhance your security. Built using **HTML**, **CSS**, and **JavaScript**, it allows users to customize password length and include/exclude specific character types such as letters, numbers, and special characters.
 
